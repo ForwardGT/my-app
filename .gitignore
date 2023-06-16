@@ -1,0 +1,14 @@
+node_modules
+dist
+out
+*.log*
+build
+.prettierrc
+.vscode/*
+npm-debug.log*
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.local
