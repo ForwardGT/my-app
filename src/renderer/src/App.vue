@@ -12,6 +12,6 @@ import Form from './components/Form.vue'
   </div>
 </template>
 
-<style lang="less">
-@import './assets/css/styles.less';
+<style>
+@import './assets/css/styles.css';
 </style>
