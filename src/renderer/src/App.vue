@@ -13,5 +13,5 @@ import Form from './components/Form.vue'
 </template>
 
 <style>
-@import './assets/css/styles.css';
+@import './assets/styles.css';
 </style>
